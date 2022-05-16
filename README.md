@@ -1,4 +1,6 @@
-# aplikasi_cuaca
+# aplikasi_cuaca_Adam_Zulhamsyah
+# 191011400475
+# Mobile Programming
 
 A new Flutter project.
 
